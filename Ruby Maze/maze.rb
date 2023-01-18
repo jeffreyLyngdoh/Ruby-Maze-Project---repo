@@ -15,6 +15,7 @@
 # of the maze files.  Use it to get started writing the rest
 # of the assignment.  You can feel free to move or modify 
 # this function however you like in working on your assignment.
+#This is a new comment 
 
 def read_and_print_simple_file(file)
   line = file.gets
